@@ -32,6 +32,11 @@ body {
   height: auto;
 }
 
+.vertical {
+  display: flex;
+  gap: 4px;
+}
+
 .business-countainer {
   width: 280px;
   margin: 0 auto;
@@ -135,6 +140,9 @@ body {
   text-align: center;
   display: flex;
   flex-direction: column;
+}
+.statistic .statistic-section h3:last-child {
+  margin-bottom: 0;
 }
 .statistic .statistic-section div:last-child {
   margin-bottom: 0;
@@ -481,7 +489,7 @@ body {
   z-index: 1;
   position: absolute;
   right: -105.5px;
-  top: -68px;
+  top: -93px;
 }
 
 .gap-citi {
