@@ -1,5 +1,7 @@
 # Peach Testovoe
 
+# Запуск https://imtochka.github.io/peach-testovoe/
+
 ## Функционал
 
 - Рабочие слайдеры
@@ -11,6 +13,7 @@
 Peach Testovoe - это проект, включающий функционал таких элементов, как слайдеры, базовые анимации, офисы и позиционирование.
 
 ## Использование
-tg https://t.me/tchkatt 
+
+tg https://t.me/tchkatt
 vk https://vk.com/im_tochka
 git https://github.com/imtochka
